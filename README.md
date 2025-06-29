@@ -20,7 +20,7 @@ I’m passionate about writing clean code, learning new technologies, and solvin
 
 ## 🔥 GitHub Stats
 
-![Kamlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamleshpatel&show_icons=true&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamleshpatel&show_icons=true&theme=react)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshpatel&layout=compact&theme=react)
 
