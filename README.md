@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Kamlesh Patel
-
 I'm a **Backend Engineer** specializing in **Java, Spring Boot**, and scalable cloud-native applications. I design and build high-performance systems for SaaS platforms, with a strong focus on **microservices**, **security**, and **clean architecture**.
 
 With hands-on experience in **AWS**, **Docker**, **PostgreSQL**, and modern **CI/CD pipelines**, I enjoy working on robust backend systems, API integrations, and DevOps automation. I also build full-stack apps using **React**, integrating seamlessly with Spring Boot APIs.
